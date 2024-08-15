@@ -1,0 +1,15 @@
+create a responsive bootstrap navigation bar for my website. The bar should be in the container also left side logo middle site nav in which links, home, about us, our services (have to drop down service 1 service 2 service 3) Our Projects, and last contact us nav bar is a break in the tablet and right side add get started button
+
+create a hero section using Bootstrap I need a slider hero section 3 slides have a background image and in the middle have bold h1 heading after that 2 lines of paragraph text after that button read more slider has left and right side arrows for changing the slide slider also automatically change slides have indicators also did CSS for overlay slider color is black
+
+now create a second section about section on the left side little heading about us after that make 3 tabs our company our mission and our vision in tabs have 1 heading 1 paragraph and 1 button Learn More and right side has image
+
+now create our services section using Bootstrap in which main our services heading center and paragraph 40 words after that 6 services box 3 in one row 3 in 2nd row in which 1st have icon then heading have services 1, 2, 3 .. after 2 line paragraph also button read more. please add a hover and shadow effect on the services box
+
+Extract our project section using Bootstrap 1st written as our project heading then this section is like 4 tabs (All, App, Producing, Books) of our projects and in that tab have images when you hover there an overlay section should be the modal and also the images with height images is not like on line image middle bit up side and 1 and last image is like 2 rows and 3 images in 1st row and in 2nd.
+
+create a bootstrap section of contact form for my website one which form map or some contact query section looks do modern and classic
+
+why my contact us section form label show in center and remove content just add map section on right side
+
+create footer for me, with background and copyright text
